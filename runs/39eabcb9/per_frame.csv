@@ -1,0 +1,28 @@
+frame_idx,time_sec,pred_label,p_real,explanation
+0,0.00,FAKE,0.377933,Manipulation signs are visible near the lips and smile lines (texture boundaries look irregular); across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 66.1%.
+15,0.50,FAKE,0.419954,Manipulation signs are visible near the lips and smile lines (texture boundaries look irregular); across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 66.7%.
+30,1.00,FAKE,0.426630,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 65.6%.
+45,1.50,REAL,0.520324,No manipulation found — facial features appear natural and consistent.
+60,2.00,REAL,0.538896,No manipulation found — facial features appear natural and consistent.
+75,2.50,REAL,0.503914,No manipulation found — facial features appear natural and consistent.
+90,3.00,FAKE,0.458723,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 62.0%.
+105,3.50,FAKE,0.417778,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 72.1%.
+120,4.00,FAKE,0.389131,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 66.4%.
+135,4.50,FAKE,0.451386,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 60.6%.
+150,5.00,FAKE,0.402801,Manipulation signs are visible around the eyes (blink edges and eyelid contours look inconsistent); across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 55.4%.
+165,5.50,REAL,0.553533,No manipulation found — facial features appear natural and consistent.
+180,6.00,FAKE,0.482428,Manipulation signs are visible around the eyes (blink edges and eyelid contours look inconsistent); across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 59.0%.
+195,6.50,FAKE,0.456540,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 57.7%.
+210,7.00,REAL,0.506430,No manipulation found — facial features appear natural and consistent.
+225,7.50,FAKE,0.433992,Manipulation signs are visible near the lips and smile lines (texture boundaries look irregular); across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 73.9%.
+240,8.00,FAKE,0.470200,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 58.5%.
+255,8.50,REAL,0.565035,No manipulation found — facial features appear natural and consistent.
+270,9.00,REAL,0.522531,No manipulation found — facial features appear natural and consistent.
+285,9.50,FAKE,0.454064,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 66.2%.
+300,10.00,REAL,0.510904,No manipulation found — facial features appear natural and consistent.
+315,10.50,REAL,0.555903,No manipulation found — facial features appear natural and consistent.
+330,11.00,FAKE,0.455773,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 65.1%.
+345,11.50,FAKE,0.471654,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 68.2%.
+360,12.00,FAKE,0.458102,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 64.8%.
+375,12.50,REAL,0.511325,No manipulation found — facial features appear natural and consistent.
+390,13.00,FAKE,0.482627,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 49.1%.

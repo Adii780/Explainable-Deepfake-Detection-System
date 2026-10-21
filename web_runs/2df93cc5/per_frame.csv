@@ -1,0 +1,71 @@
+frame_idx,time_sec,pred_label,p_real,explanation
+0,0.00,FAKE,0.350847,"Manipulation detected, but facial landmarks were not detected reliably."
+5,0.17,FAKE,0.375897,"Manipulation detected, but facial landmarks were not detected reliably."
+10,0.33,FAKE,0.382230,"Manipulation detected, but facial landmarks were not detected reliably."
+15,0.50,FAKE,0.393031,"Manipulation detected, but facial landmarks were not detected reliably."
+20,0.67,FAKE,0.391082,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+25,0.83,FAKE,0.386667,"Manipulation detected, but facial landmarks were not detected reliably."
+30,1.00,FAKE,0.418437,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+35,1.17,FAKE,0.426760,"Manipulation detected, but facial landmarks were not detected reliably."
+40,1.33,FAKE,0.436340,"Manipulation detected, but facial landmarks were not detected reliably."
+45,1.50,FAKE,0.435401,"Manipulation detected, but facial landmarks were not detected reliably."
+50,1.67,FAKE,0.429872,"Manipulation detected, but facial landmarks were not detected reliably."
+55,1.83,FAKE,0.429816,"Manipulation detected, but facial landmarks were not detected reliably."
+60,2.00,FAKE,0.441795,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+65,2.17,FAKE,0.439791,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+70,2.33,FAKE,0.432871,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+75,2.50,FAKE,0.488856,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+80,2.67,FAKE,0.491015,"Manipulation detected, but facial landmarks were not detected reliably."
+85,2.83,FAKE,0.434846,"Manipulation detected, but facial landmarks were not detected reliably."
+90,3.00,FAKE,0.422106,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+95,3.17,FAKE,0.435113,"Manipulation detected, but facial landmarks were not detected reliably."
+100,3.33,FAKE,0.478237,"Manipulation detected, but facial landmarks were not detected reliably."
+105,3.50,FAKE,0.478692,"Manipulation detected, but facial landmarks were not detected reliably."
+110,3.67,FAKE,0.461791,"Manipulation detected, but facial landmarks were not detected reliably."
+115,3.83,FAKE,0.448786,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+120,4.00,FAKE,0.420682,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally).
+125,4.17,FAKE,0.427123,"Manipulation detected, but facial landmarks were not detected reliably."
+130,4.33,FAKE,0.412384,"Manipulation detected, but facial landmarks were not detected reliably."
+135,4.50,FAKE,0.413265,"Manipulation detected, but facial landmarks were not detected reliably."
+140,4.67,FAKE,0.419725,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+145,4.83,FAKE,0.428883,"Manipulation detected, but facial landmarks were not detected reliably."
+150,5.00,FAKE,0.394051,"Manipulation detected, but facial landmarks were not detected reliably."
+155,5.17,FAKE,0.396584,"Manipulation detected, but facial landmarks were not detected reliably."
+160,5.33,FAKE,0.405211,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+165,5.50,FAKE,0.407474,"Manipulation detected, but facial landmarks were not detected reliably."
+170,5.67,FAKE,0.493847,"Manipulation detected, but facial landmarks were not detected reliably."
+175,5.83,FAKE,0.476595,"Manipulation detected, but facial landmarks were not detected reliably."
+180,6.00,FAKE,0.462971,"Manipulation detected, but facial landmarks were not detected reliably."
+185,6.17,FAKE,0.458074,"Manipulation detected, but facial landmarks were not detected reliably."
+190,6.33,FAKE,0.455595,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+195,6.50,FAKE,0.462886,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+200,6.67,FAKE,0.446521,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+205,6.83,FAKE,0.463481,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+210,7.00,FAKE,0.461206,"Manipulation detected, but facial landmarks were not detected reliably."
+215,7.17,FAKE,0.453051,"Manipulation detected, but facial landmarks were not detected reliably."
+220,7.33,FAKE,0.427371,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+225,7.50,FAKE,0.437862,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+230,7.67,FAKE,0.437837,"Manipulation detected, but facial landmarks were not detected reliably."
+235,7.83,FAKE,0.410304,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally).
+240,8.00,FAKE,0.392553,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+245,8.17,FAKE,0.384282,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+250,8.33,FAKE,0.374693,"Manipulation detected, but facial landmarks were not detected reliably."
+255,8.50,FAKE,0.424501,"Manipulation detected, but facial landmarks were not detected reliably."
+260,8.67,FAKE,0.419095,"Manipulation detected, but facial landmarks were not detected reliably."
+265,8.83,FAKE,0.454856,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+270,9.00,FAKE,0.442192,"Manipulation detected, but facial landmarks were not detected reliably."
+275,9.17,FAKE,0.426527,"Manipulation detected, but facial landmarks were not detected reliably."
+280,9.33,FAKE,0.408963,"Manipulation detected, but facial landmarks were not detected reliably."
+285,9.50,FAKE,0.430959,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+290,9.67,FAKE,0.456694,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+295,9.83,FAKE,0.447699,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+300,10.00,FAKE,0.357054,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+305,10.17,FAKE,0.445105,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+310,10.33,FAKE,0.452832,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+315,10.50,FAKE,0.451668,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+320,10.67,FAKE,0.431490,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+325,10.83,FAKE,0.452344,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+330,11.00,FAKE,0.459690,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven).
+335,11.17,FAKE,0.463376,"Manipulation detected, but facial landmarks were not detected reliably."
+340,11.33,FAKE,0.445783,"Manipulation detected, but facial landmarks were not detected reliably."
+345,11.50,FAKE,0.474232,"Manipulation detected, but facial landmarks were not detected reliably."

@@ -1,0 +1,28 @@
+frame_idx,time_sec,pred_label,p_real,explanation
+0,0.00,FAKE,0.425502,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+15,0.50,FAKE,0.303270,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+30,1.00,FAKE,0.270714,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+45,1.50,FAKE,0.243630,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+60,2.00,FAKE,0.317168,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+75,2.50,FAKE,0.281774,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+90,3.00,FAKE,0.462476,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+105,3.50,FAKE,0.288487,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 99.1%.
+120,4.00,FAKE,0.486553,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+135,4.50,FAKE,0.346473,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+150,5.00,FAKE,0.427064,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 100.0%.
+165,5.50,REAL,0.502882,No manipulation found — facial features appear natural and consistent.
+180,6.00,FAKE,0.480332,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+195,6.50,FAKE,0.320387,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+210,7.00,FAKE,0.475212,Manipulation signs are visible across the mid-face (nose and cheek textures don't blend naturally); on the forehead (skin tone and shading look uneven). High-confidence face area ≈ 99.3%.
+225,7.50,FAKE,0.363724,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+240,8.00,FAKE,0.380205,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+255,8.50,FAKE,0.390903,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+270,9.00,FAKE,0.308855,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+285,9.50,FAKE,0.297947,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+300,10.00,FAKE,0.453847,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+315,10.50,FAKE,0.386400,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+330,11.00,FAKE,0.261249,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+345,11.50,FAKE,0.254421,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+360,12.00,FAKE,0.284076,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+375,12.50,FAKE,0.221459,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
+390,13.00,FAKE,0.238611,"Model’s strongest evidence lies outside the face region (e.g., neck/background). This can reflect context/dataset bias; interpret with caution."
